@@ -1,0 +1,7 @@
+__pycache__
+pretrained
+pretrained_*
+*.ipynb
+.ipynb_checkpoints
+images
+*.json
